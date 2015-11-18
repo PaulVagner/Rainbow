@@ -1,5 +1,0 @@
-#Note
-
-- stuff
-- testing stuff
-- 
